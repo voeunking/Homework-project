@@ -8,21 +8,19 @@
 
 ### Homepage
 
-![Dashboard](./Screenshot-2025-02-18-151629-1024x563.png)
+![alt text](image-1.png)
 
 ### Admin Dashboard
 
-![Dashboard](./Screenshot-2025-02-18-150900-1024x576.png)
+![alt text](image-2.png)
 
 ### Admin Manage Teacher
 
-![Dashboard](./School-Management-System-in-Django-Manage-Student.png)
+![alt text](image-3.png)
 
 ### Attendance
 
-![Dashboard](./School-Management-System-in-Django-Attendance.png)
-
-
+![alt text](image-4.png)
 ## Functions
 
 ### Teacher
