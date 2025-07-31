@@ -81,3 +81,5 @@ Any suggestion and feedback is welcome. You can message me on facebook
 
 -  [Tailwindcss](https://www.w3schools.com/tags/tag_form.asp)
 -  [Tailwindcss](https://www.youtube.com/)
+-  [Tailwindcss](https://www.w3schools.com/tags/tag_form.asp)
+-  [Tailwindcss](https://www.youtube.com/)
