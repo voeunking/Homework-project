@@ -45,6 +45,7 @@ First admin will signup for a account. After login they can see how many student
 - Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
 - Open Terminal and Execute Following Commands :
 
+
 ```
 python -m pip install -r requirements.txt
 ```
@@ -55,14 +56,17 @@ python -m pip install -r requirements.txt
 py manage.py migrate
 py manage.py runserver
 ```
+
 - Now enter following URL in Your Browser Installed On Your Pc
 
+```http://127.0.0.1:8000/
 ```
-http://127.0.0.1:8000/
-```
+
 # CHANGES REQUIRED FOR CONTACT US PAGE
 
+
 - In settins.py file, You have to give your email and password
+
 
 ```
 EMAIL_HOST_USER = 'youremail@gmail.com'
